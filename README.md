@@ -9,7 +9,7 @@
 
 # cambodia
 ```
-huione pay
+huione pay，已对接完成
 
 ```
 
